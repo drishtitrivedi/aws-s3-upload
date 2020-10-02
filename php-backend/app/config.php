@@ -5,6 +5,6 @@ return  [
     's3' => [
         'key' => 'key',
         'secret' => 'secret',
-        'bucket' => 'drishti.bucket'
+        'bucket' => 'bucketname'
     ]
 ]; 
